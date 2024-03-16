@@ -1,0 +1,23 @@
+body{
+    background :rgb(26, 203, 94);
+    margin:100px;
+    }
+
+
+.parent-1{
+    text-align: center;
+}
+.fl{
+    text-align: center;
+}
+h2{
+    color:white;
+    text-align: center;
+
+}
+
+div{
+    background-color: rgb(27, 203, 133);
+    padding : 20px;
+    color:black
+}
